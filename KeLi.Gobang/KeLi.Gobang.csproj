@@ -7,7 +7,7 @@
     <ProjectGuid>{759AEFA8-AB46-4C9C-93EE-9DEC0C51D384}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>KeLi.Gobang</RootNamespace>
-    <AssemblyName>KeLi.Gobang</AssemblyName>
+    <AssemblyName>Gobang</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
